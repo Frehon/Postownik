@@ -1,0 +1,15 @@
+.makeBold {
+  font-weight: bold;
+}
+
+.list-group-item:hover {
+  color: white;
+  background-color: cornflowerblue;
+}
+
+h3 {
+  color: black;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+}
